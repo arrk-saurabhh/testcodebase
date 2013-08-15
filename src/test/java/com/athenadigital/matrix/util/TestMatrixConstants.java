@@ -1,0 +1,10 @@
+package com.athenadigital.matrix.util;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class TestMatrixConstants {
+
+
+}
